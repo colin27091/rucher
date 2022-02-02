@@ -1,0 +1,12 @@
+.product {
+    background-color: rgb(243, 156, 18);
+}
+
+.product .fill {
+    position: relative;
+    top: -2em;
+    height: 2em;
+    width: 100vw;
+    background-color: #f39c12;
+    z-index: -1;
+}
